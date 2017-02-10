@@ -19,7 +19,6 @@ Inspired by - [Codecademy Articles > javascript](https://www.codecademy.com/arti
 #### navigate to
     $ http://localhost:8080
 
-#### make a change
-app/components/App.js
+###### In app/components/App.js, make a change to your component class's render function
 
 ###### Refresh the browser tab and see your change appear on the screen! :smile:
