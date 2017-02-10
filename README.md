@@ -7,3 +7,5 @@ Run a React Program on Your Local Computer
 * ReactDOM
 * Babel
 * Webpack
+
+Inspired by - [Codecademy Articles > javascript](https://www.codecademy.com/articles/react-setup-i)
