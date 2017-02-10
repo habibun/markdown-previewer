@@ -10,4 +10,16 @@ Run a React Program on Your Local Computer
 
 Inspired by - [Codecademy Articles > javascript](https://www.codecademy.com/articles/react-setup-i)
 
-:+1:
+#### install
+npm install 
+
+#### run
+npm run start
+
+#### navigate to
+http://localhost:8080
+
+#### make a change
+app/components/App.js
+
+###### see your change appear on the screen! :smile:
