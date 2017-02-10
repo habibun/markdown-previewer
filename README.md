@@ -11,13 +11,13 @@ Run a React Program on Your Local Computer
 Inspired by - [Codecademy Articles > javascript](https://www.codecademy.com/articles/react-setup-i)
 
 #### install
-$ npm install 
+    $ npm install 
 
 #### run
-$ npm run start
+    $ npm run start
 
 #### navigate to
-$ http://localhost:8080
+    $ http://localhost:8080
 
 #### make a change
 app/components/App.js
